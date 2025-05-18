@@ -1,3 +1,79 @@
+# Quizora - Interactive Quiz Application
+
+A modern, interactive quiz application built with React and TailwindCSS. Visit [quizora.fun](https://quizora.fun) to try it out!
+
+## Features
+
+- Interactive quiz interface
+- Smooth animations using Framer Motion
+- Sound effects for better user experience
+- Responsive design for all devices
+- Modern UI with TailwindCSS
+
+## Tech Stack
+
+- React 18
+- TailwindCSS
+- Framer Motion
+- React Icons
+- Lottie React for animations
+- use-sound for audio effects
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/quiz-app.git
+cd quiz-app
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm start
+```
+
+The app will be available at [http://localhost:3000](http://localhost:3000).
+
+## Available Scripts
+
+### `npm start`
+
+Runs the app in development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+### `npm test`
+
+Launches the test runner in interactive watch mode.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+The build is optimized for the best performance.
+
+## Deployment
+
+This application is deployed at [quizora.fun](https://quizora.fun).
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
