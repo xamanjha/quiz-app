@@ -162,7 +162,7 @@ function App() {
             <div className="flex items-center space-x-3">
               <img src="/logo.png" alt="Quizora Logo" className="h-8 w-auto" />
               <p className="text-sm text-gray-500 dark:text-gray-400">
-                © 2024 Quizora. All rights reserved.
+                © 2025 Quizora. All rights reserved.
               </p>
             </div>
             <div className="flex items-center space-x-6 relative">
